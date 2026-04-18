@@ -1,3 +1,3 @@
-# Pokémon Damage Calculator 
+# pokémon damage calculator 
 
-A Python Script that simulates how much damage an attacking Pokémon does to a defending Pokémon.  
+a python Script that simulates how much damage an attacking pokémon does to a defending pokémon
